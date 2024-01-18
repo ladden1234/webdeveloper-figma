@@ -1,5 +1,6 @@
 nav{
 display: flex;
+margin: 0 200px;
 
 }
 
@@ -59,4 +60,27 @@ padding: 18px 35px;
 nav{
 justify-content: space-between;
 align-items: center;
+}
+
+.header{
+background-color: FFF8F3;
+}
+.banner{
+padding: 30px 30px 30px 150px;
+display: flex;
+/* align-items: center; */
+
+}
+.banner-item{
+
+    align-items: center;
+
+}
+
+.banner .profile{
+    width: 500px;
+}
+#coto{
+margin: 10px;
+
 }
